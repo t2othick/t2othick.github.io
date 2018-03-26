@@ -1,1 +1,0 @@
-# t2othick.github.io
