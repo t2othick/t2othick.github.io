@@ -1,25 +1,7 @@
 ---
 layout: post
-title: Sample Post
-date: 2016-02-15 15:32:24.000000000 +09:00
+title: 2017-09-01
+date: 2017-09-01 15:32:24.000000000 +09:00
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+上午一到公司，你就和我说，确定要去合肥出差了，第一次因为你要出差和你分开，唉，感觉现在越来越依赖你，你不在身边，我估计连被子都盖不住了。看你那么兴奋，还提前约好了小伙伴，同时又是一番羡慕，真想和你一起出去。你一个人外出，我好担心你，担心你这个路痴会不会迷路，担心你这么弱会不会遇到坏人欺负你，又让我想起异地的时候，那个时候每天最怕最怕的就是你受欺负，你受欺负哭的时候，我的那种无力感，真的让我到今天都害怕
