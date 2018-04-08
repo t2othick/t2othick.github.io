@@ -5,30 +5,118 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Mar 2018 17:56:46 +0800</pubDate>
-    <lastBuildDate>Mon, 26 Mar 2018 17:56:46 +0800</lastBuildDate>
+    <pubDate>Sun, 08 Apr 2018 18:51:33 +0800</pubDate>
+    <lastBuildDate>Sun, 08 Apr 2018 18:51:33 +0800</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
-        <title>Sample Post</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+        <title>2018-04-08</title>
+        <description>&lt;p&gt;今天，TT 正式和我谈了薪水和期权，我应该会接受，这个涨幅也算是我送给你的恋爱纪念日的礼物之一吧，老婆，你真的辛苦了。原谅我昨天让你生气了，这个礼物我记录了半年多，中间还有一部分没有整理完成，我希望有个地方，能够记录下那些我们的小开心、小幸福和小难过，礼物不是非常的贵重，但是花费了我很大的心思，以后我会持续的记录，当我们年级越来越大，甚至有了孩子，我还是会记录，我知道没有来生，所以我想记录下我们的每分每秒，让我们能细细回味~&lt;/p&gt;
 </description>
-        <pubDate>Mon, 15 Feb 2016 14:32:24 +0800</pubDate>
-        <link>http://localhost:4000/2016/02/sample-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/02/sample-post/</guid>
+        <pubDate>Sun, 08 Apr 2018 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2018/04/20180408/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/20180408/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2018-03-02</title>
+        <description>&lt;p&gt;今天，拿到了新工资，税后涨了 2800，看起来你不是非常的兴奋，哈哈，看来还是太少了，我需要继续努力。不过今天开始，我要准备找工作了，今年，我一定要改变我们的生活，其他的都不重要，我不想你再羡慕别人，我不想我俩再因为房子的事情争吵了，不管是回南方还是怎么样，我都要做出一些改变，我们的生活&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Mar 2018 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2018/03/20180302/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/20180302/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2018-02-07</title>
+        <description>&lt;p&gt;这周，又一个小伙伴也离职了，不知道我们现在这个事业，还能坚持多久，不知道我能不能坚持到这个事情做到低，做到底我又能得到什么，你能够理解我么，坚持到底毕竟只是我的一厢情愿，也没法给我们的家庭带来什么好处，唉，我也好纠结。另外，每次有小伙伴离职，好像都搞的不是很开心，为什么人与人之间就不能单纯一些，简单一些呢，受伤的很。
+不过这周的股票很厉害，这个也算是好消息，至少给我们俩赚了点零花钱，哈哈&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Feb 2018 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2018/02/20180207/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/20180207/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017-12-20</title>
+        <description>&lt;p&gt;今天是我的生日，我还是记录一下吧，其实这个生日真的不是非常开心，我感觉最近我们的感情出了问题，今晚我们一起在我们公司对面吃了日料，最近我总是心不在焉的，可能适合上面的事情有关系吧，不知道什么时候才能走出来。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Dec 2017 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2017/12/20171220/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/20171220/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017-12-07</title>
+        <description>&lt;p&gt;昨天晚上你和我说，你喜欢上别人了，唉，我以为我可以很大方的安慰你，但是我真的做不到，抱歉，我现在的心情就很糟糕，其实每天最让我开心的事情，就是早晨你的问候，晚上你的催促，还有时不时和我卖萌耍横的小情绪，以后这些都还能再有么，我心里好难过，接下来几天我都不想写了，也许等到我们什么时候回到原来的状态吧，唉，今天自己一个人偷偷哭了好久，又不想让你知道，怕你心里觉得有负担，可是我真的好爱你，怕你离开。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Dec 2017 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2017/12/20171207/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/20171207/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017-12-04</title>
+        <description>&lt;p&gt;你的生日快到了，寻思着送你什么，结果你给我发了一个链接，唉，让你自己挑选了礼物，感觉好愧疚，都怪我太忙了，感觉再这样下去，就要失去你的宠爱了。不行，得找个机会，送你一个意外的小礼物，让你开心开心，哈哈，圣诞的时候就可以。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Dec 2017 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2017/12/20171204/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/20171204/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017-11-29</title>
+        <description>&lt;p&gt;太好了，今天你们确定要去泰国，并且最关键的是，你要带上我，哈哈，故地重游，开心，最关键是能和你一起，也是极好的~
+不过最近感觉你心事重重的，好像有很多不开心的事情，又不光是工作上的，你也说不清楚，到底是什么事情呢，好担心你&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Nov 2017 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2017/11/20171129/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/20171129/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017-11-25</title>
+        <description>&lt;p&gt;昨天被领导欺负了，今天和领导聊了聊到底还要不要我做什么事情了，也基本上把话聊开了，跟你说的时候，我说的领导态度很好，但是其实隐瞒了一些内容，领导的态度，没有那么好其实，唉，不想让你为我担心，等你看到这个礼物的时候，时间过去久了，也就没关系了，至少现在我不像你为我担心，这点压力，没什么扛不住的，放心。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Nov 2017 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2017/11/20171121/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/20171121/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017-11-21</title>
+        <description>&lt;p&gt;今天我接受了 infoq 的采访，感觉马上就要赚点外快了，哈哈，又能进账一笔，开心。早晨你去到公司，又是一阵紧张的数据统计，你们说要招的人，到底啥时候能到啊，别把我老婆给累死了。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Nov 2017 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2017/11/20171125/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/20171125/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017-11-15</title>
+        <description>&lt;p&gt;今天你领到了 10 月份的工资，和我说第一次交这么多的税，哈哈，恭喜你，以后你交的税会越来越多的，你是最棒的，老婆大人~。约定 2018 年七月一起涨工资，哈哈。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Nov 2017 14:32:24 +0800</pubDate>
+        <link>http://localhost:4000/2017/11/20171115/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/20171115/</guid>
         
         
       </item>
